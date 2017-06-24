@@ -1,0 +1,15 @@
+{
+  "name": "functional-javascript-workshop-exercices",
+  "version": "1.0.0",
+  "description": "The responses for functional-javascript-workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "functional-javascript-workshop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "functional-javascript-workshop": "^1.0.6"
+  }
+}
