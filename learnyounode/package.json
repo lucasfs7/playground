@@ -1,0 +1,27 @@
+{
+  "name": "learnyounode-exercices",
+  "version": "1.0.0",
+  "description": "The responses to learnyounode exercices",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "bl": "^1.2.0",
+    "learnyounode": "3.5.10",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "learnyounode",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfs7/learnyounode-exercices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfs7/learnyounode-exercices/issues"
+  },
+  "homepage": "https://github.com/lucasfs7/learnyounode-exercices#readme"
+}
