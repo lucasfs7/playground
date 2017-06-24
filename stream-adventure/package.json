@@ -1,0 +1,30 @@
+{
+  "name": "stream-adventure-exercices",
+  "version": "1.0.0",
+  "description": "The responses to stream-adventure exercices",
+  "scripts": {
+    "start": "stream-adventure",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfs7/stream-adventure-exercices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfs7/stream-adventure-exercices/issues"
+  },
+  "homepage": "https://github.com/lucasfs7/stream-adventure-exercices#readme",
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "duplexer2": "^0.1.4",
+    "request": "^2.81.0",
+    "split": "^1.0.0",
+    "stream-adventure": "^4.0.5",
+    "tar": "^2.2.1",
+    "through2": "^2.0.3",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^4.0.0"
+  }
+}
