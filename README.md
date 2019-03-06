@@ -1,8 +1,3 @@
-Lots of programing exercises and stuff to practice
+My personal dev playground.
 
----
-
-- clone
-- enter a directory
-- install dependencies
-- run the exercises
+This may contain a lot of funny, broken, nonsense stuff. Be warned.
